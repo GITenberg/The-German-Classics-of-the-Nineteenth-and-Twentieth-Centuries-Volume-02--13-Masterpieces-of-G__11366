@@ -1,0 +1,34 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-02--13-Masterpieces-of-G__11366
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- GITenberg
+tableOfContents: "Introduction to the Elective Affinities. By Calvin Thomas\r\nGOETHE:\
+  \ The Elective Affinities.\r\nShakespeare and Again Shakespeare.\r\nOration on Wieland.\r\
+  \nThe Pedagogic Province (from \"Wilhelm Meister's Travels\").\r\nWinckelmann and\
+  \ His Age.\r\nMaxims and Reflections.\r\nEckermann's Conversation with Goethe.\r\
+  \nGoethe's Correspondence with Wilhelm von Humboldt and His Wife.\r\nGoethe's Correspondence\
+  \ with K. F. Zelter."
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 02\r\
+  \nMasterpieces of German Literature Translated into English. in Twenty Volumes"
+url: http://www.gutenberg.org/ebooks/11366
